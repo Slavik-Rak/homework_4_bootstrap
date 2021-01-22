@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.conteiner_basic {
+    background: rgb(163, 129, 123);
+}
+
+.header {
+    background: silver;
+}
+
+.footer {
+    height: 60px;
+    background: silver;
+}
+
+.wrap_header {
+    background: tomato;
+}
+
+.menu {
+    height: 500px;
+    background: cornflowerblue;
+}
+
+.wrap_post {
+    background: rgb(226, 14, 32);
+}
+
+.post_one {
+    background: darkgreen;
+    padding: 5px;
+    overflow: hidden;
+}
+
+.post_two {
+    background: rgb(205, 226, 16);
+}
